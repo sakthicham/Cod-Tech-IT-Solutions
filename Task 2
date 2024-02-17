@@ -1,0 +1,24 @@
+$sudo apt update
+
+$sudo apt full-upgrade
+
+//open browser ->  download pentmenu from github -> copy link 
+
+$git clone <paste link>
+
+$ls 
+
+$pentmenu/
+
+$./pentmenu
+
+2) DOS
+
+9) Sloworis
+
+Enter the target : ( vulnerable site )
+
+Enter targer port ( defaults to 80 )
+
+Enter the number of connections to open ( defaults to 2000 )
+
