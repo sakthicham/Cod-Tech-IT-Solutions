@@ -1,0 +1,7 @@
+install Maltego :
+
+Download and insatall maltego from the official website.
+
+$sudo apt insatall maltego
+
+open the maltego app.
